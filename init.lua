@@ -1,3 +1,6 @@
+-- Preview substitutions live, as you type!
+-- vim.set.inccommand 'split'
+
 vim.cmd.source '~/.vimrc'
 vim.cmd.source './config/keybinds.lua'
 
